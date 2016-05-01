@@ -1,13 +1,6 @@
 
 var mongo = require('mongodb').MongoClient;
 
-/*
-var Rating = function(link,avgPoints){
-    this.link:link,
-    this.avgPoints:avgPoints,
-    this.quantity=0;
-}
-*/
 var getNewAverage = function(quantity,currAvg,newPoint){
   console.log('Getting new average');
   return currAvg + ((newPoint-currAvg)/quantity);
