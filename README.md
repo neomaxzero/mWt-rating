@@ -69,6 +69,10 @@ https://webtask.it.auth0.com/api/run/wt-maxicespedes7-hotmail_com-0/wt-rating?we
 * Atom 
 * Love 
 
+## Future
+* Adding example project
+* async modules
+
 ## Authors
 
 * **Céspedes Maximiliano** 
