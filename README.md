@@ -3,7 +3,8 @@
 Simple Auth0 WebTask that persist average points in a mongodb instance
 
 ## Why would i use this?
-Webtasks allow us to execute custom server side code from the frontend. This opportunity i did 
+Webtasks allow us to execute custom server side code from the frontend. This opportunity i did a simple service that save the average point of a string (it could be a link/movie/music). It could be useful when you want to implement a star rating system for your blog/portfolio/(your thing).
+
 ## WebTask address
 https://webtask.it.auth0.com/api/run/wt-maxicespedes7-hotmail_com-0/wt-rating?webtask_no_cache=1
 
